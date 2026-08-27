@@ -18,7 +18,7 @@
 # Embedded Platforms
 [submodule "embedded_platforms/px4"]
 	path = embedded_platforms/px4
-	url = https://github.com/rl-tools/px4.git
+	url = https://github.com/EESC-LabRoM/px4.git
 [submodule "embedded_platforms/ios"]
 	path = embedded_platforms/ios
 	url = https://github.com/rl-tools/ios
